@@ -1,0 +1,685 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gr",
+				"group"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"ac",
+				"accessToken"
+			],
+			[
+				"tim",
+				"timestamp__year"
+			],
+			[
+				"da",
+				"date_display"
+			],
+			[
+				"m",
+				"mainTweet"
+			],
+			[
+				"Tw",
+				"TweetManager"
+			],
+			[
+				"get",
+				"get_absolute"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"p",
+				"parent_obj"
+			],
+			[
+				"pare",
+				"parent_obj"
+			],
+			[
+				"re",
+				"reverse_lazy"
+			],
+			[
+				"new",
+				"newText"
+			],
+			[
+				"media",
+				"media-body"
+			],
+			[
+				"post",
+				"post_save_user_receiver"
+			],
+			[
+				"is_",
+				"is_following"
+			],
+			[
+				"User",
+				"UserProfile"
+			],
+			[
+				"fol",
+				"followed_by_user"
+			],
+			[
+				"user",
+				"user_profile"
+			],
+			[
+				"fo",
+				"following"
+			],
+			[
+				"get_o",
+				"get_object_or_404"
+			],
+			[
+				"u",
+				"users"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"ClickE",
+				"ClickEventManager"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"SHO",
+				"SHORTCODE_MAX"
+			],
+			[
+				"K",
+				"KirrUrl"
+			],
+			[
+				"random",
+				"randomCategoryShortName"
+			],
+			[
+				"inser",
+				"insertHtml"
+			],
+			[
+				"ho",
+				"homeHtml"
+			],
+			[
+				"a",
+				"ajaxUtils"
+			],
+			[
+				"sho",
+				"short_name"
+			],
+			[
+				"ranom",
+				"randomCategory"
+			],
+			[
+				"nav",
+				"navHomeButton"
+			],
+			[
+				"fi",
+				"finalHtml"
+			],
+			[
+				"pr",
+				"price_large"
+			],
+			[
+				"cat",
+				"catShortName"
+			],
+			[
+				"menuI",
+				"menuItemHtml"
+			],
+			[
+				"menuItem",
+				"menuItemsTitleHtml"
+			],
+			[
+				"categ",
+				"categoryHtml"
+			],
+			[
+				"me",
+				"menuItemsTitleHtml"
+			],
+			[
+				"categor",
+				"categoryShort"
+			],
+			[
+				"cate",
+				"categoriesTitleHtml"
+			],
+			[
+				"insert",
+				"insertHtml"
+			],
+			[
+				"ins",
+				"insertProperty"
+			],
+			[
+				"catego",
+				"categoriesTitleHtml"
+			],
+			[
+				"categories",
+				"categoriesTitleHtml"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"backgroun",
+				"background"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"backgr",
+				"background-image"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zjgbz/send_email_to_me.py",
+		"/Users/zjgbz/check_stock.sh",
+		"/Users/zjgbz/dauphine",
+		"/Users/zjgbz/Source/TestProject/examples/BUILD",
+		"/Users/zjgbz/Developer/TestProject/WORKSPACE",
+		"/Users/zjgbz/one-month/omrails/app/views/devise/registrations/new.html.erb",
+		"/Users/zjgbz/one-month/omrails/app/assets/stylesheets/signin_and_signup.scss",
+		"/Users/zjgbz/one-month/omrails/app/assets/stylesheets/pages.scss",
+		"/Users/zjgbz/one-month/omrails/Gemfile",
+		"/Users/zjgbz/one-month/omrails/config/environments/development.rb",
+		"/Users/zjgbz/one-month/omrails/config/environments/production.rb",
+		"/Users/zjgbz/one-month/omrails/app/views/layouts/application.html.erb",
+		"/Users/zjgbz/one-month/omrails/config/routes.rb",
+		"/Users/zjgbz/one-month/omrails/app/views/pages/home.html.erb",
+		"/Users/zjgbz/one-month/omrails/app/assets/javascripts/application.js",
+		"/Users/zjgbz/one-month/omrails/app/assets/stylesheets/application.scss",
+		"/Users/zjgbz/one-month/omrails/app/views/pages/contactUs.html.erb",
+		"/Users/zjgbz/one-month/omrails/app/views/pages/about.html.erb",
+		"/Users/zjgbz/Downloads/bootstrap-template-jumbotron/pages.scss",
+		"/Users/zjgbz/Downloads/bootstrap-template-jumbotron/home-bg.jpg",
+		"/Users/zjgbz/Downloads/bootstrap-template-jumbotron/about.html.erb",
+		"/Users/zjgbz/.bash_profile",
+		"/Users/zjgbz/IdeaProjects/Concordance/concordance-big.txt",
+		"/Users/zjgbz/azure-samples/B2C-WebApp-OpenIDConnect-NodeJS/views/index.ejs",
+		"/Users/zjgbz/azure-samples/B2C-WebApp-OpenIDConnect-NodeJS/config.js",
+		"/Users/zjgbz/Dev/tweetme/src/tweets/urls.py",
+		"/Users/zjgbz/Dev/tweetme/src/hashtags/views.py",
+		"/Users/zjgbz/Dev/tweetme/src/tweetme/views.py",
+		"/Users/zjgbz/Dev/tweetme/src/hashtags/models.py",
+		"/Users/zjgbz/Dev/tweetme/src/tweetme/urls.py",
+		"/Users/zjgbz/Dev/tweetme/src/hashtags/signals.py",
+		"/Users/zjgbz/Dev/tweetme/src/accounts/urls.py",
+		"/Users/zjgbz/Dev/tweetme/src/tweets/templates/tweets/tweet_list.html",
+		"/Users/zjgbz/Dev/tweetme/src/accounts/tests.py",
+		"/Users/zjgbz/Dev/tweetme/src/tweets/api/views.py",
+		"/Users/zjgbz/Dev/tweetme/src/tweets/tests.py",
+		"/Users/zjgbz/Dev/tweetme/src/tweets/models.py",
+		"/Users/zjgbz/Dev/tweetme/src/accounts/views.py",
+		"/Users/zjgbz/Dev/tweetme/src/hashtags/admin.py",
+		"/Users/zjgbz/Dev/tweetme/src/tweetme/settings/production.py",
+		"/Users/zjgbz/Dev/tweetme/src/tweetme/settings/local.py",
+		"/Users/zjgbz/Dev/tweetme/src/tweetme/settings/base.py",
+		"/Users/zjgbz/Dev/tweetme/src/hashtags/templates/hashtags/tag_view.html",
+		"/Users/zjgbz/Dev/tweetme/src/templates/base.html",
+		"/Users/zjgbz/Dev/tweetme/src/accounts/templates/accounts/user_detail.html",
+		"/Users/zjgbz/hellonode/server.js",
+		"/Users/zjgbz/Dev/tweetme/src/accounts/models.py",
+		"/Users/zjgbz/hellonode/Dockerfile",
+		"/Users/zjgbz/Dev/tweetme/src/accounts/api/serializers.py",
+		"/Users/zjgbz/Dev/tweetme/src/accounts/admin.py",
+		"/Users/zjgbz/tirr/src/python",
+		"/Users/zjgbz/tirr/src/kirr/wsgi.py",
+		"/Users/zjgbz/djangoOfficialTutorial/django-polls/README.rst",
+		"/Users/zjgbz/djangoOfficialTutorial/django-polls/LICENSE",
+		"/Users/zjgbz/djangoOfficialTutorial/django-polls/setup.py",
+		"/Users/zjgbz/djangoOfficialTutorial/django-polls/MANIFEST.in",
+		"/Users/zjgbz/Desktop/wiki_crawler.py",
+		"/Users/zjgbz/Desktop/wiki_crawler",
+		"/Users/zjgbz/tirr/src/collectstatic",
+		"/Users/zjgbz/tirr/src/.gitignore",
+		"/Users/zjgbz/djangoOfficialTutorial/mysite/polls/static/polls/images/background.jpg",
+		"/Users/zjgbz/tirr/src/settings/production.py",
+		"/Users/zjgbz/tirr/src/settings/local.py",
+		"/Users/zjgbz/tirr/src/settings/__init__.py",
+		"/Users/zjgbz/trydjango110/.gitignore",
+		"/Users/zjgbz/trydjango110/src/kirr/hostconf/views.py",
+		"/Users/zjgbz/trydjango110/src/shortener/templates/shortener/already-exists.html",
+		"/Users/zjgbz/trydjango110/src/shortener/templates/shortener/success.html",
+		"/Users/zjgbz/trydjango110/src/kirr/urls.py",
+		"/Users/zjgbz/trydjango110/src/shortener/models.py",
+		"/Users/zjgbz/trydjango110/src/analytics/admin.py",
+		"/Users/zjgbz/trydjango110/src/analytics/models.py",
+		"/Users/zjgbz/trydjango110/src/shortener/views.py",
+		"/Users/zjgbz/trydjango110/src/shortener/validators.py",
+		"/Users/zjgbz/trydjango110/src/kirr/hosts.py",
+		"/Users/zjgbz/trydjango110/src/kirr/settings.py",
+		"/Users/zjgbz/trydjango110/src/shortener/management/commands/refreshcodes.py",
+		"/Users/zjgbz/trydjango110/src/kirr/hostconf/urls.py",
+		"/Users/zjgbz/trydjango110/src/kirr/hostconf/__init__.py",
+		"/Users/zjgbz/trydjango110/src/shortener/utils.py",
+		"/Users/zjgbz/trydjango110/src/shortener/admin.py",
+		"/etc/hosts",
+		"/Users/zjgbz/trydjango110/src/shortener/management/commands/__init__.py",
+		"/Users/zjgbz/trydjango110/src/shortener/management/__init__.py",
+		"/Users/zjgbz/habitat-example-plans/mytutorialapp_finished/habitat/plan.sh",
+		"/Users/zjgbz/bar.py",
+		"/Users/zjgbz/habitat-example-plans/mytutorialapp/habitat/hooks/init",
+		"/Users/zjgbz/habitat-example-plans/mytutorialapp/habitat/plan.sh",
+		"/Users/zjgbz/test_site/fullstack-course4/examples/Lecture57/js/ajax-utils.js",
+		"/Users/zjgbz/test_site/fullstack-course4/examples/Lecture29/after/index.html",
+		"/Users/zjgbz/test_site/fullstack-course4/examples/Lecture29/after/single-category.html",
+		"/Users/zjgbz/test_site/fullstack-course4/examples/Lecture29/after/snippets/menu-item.html",
+		"/Users/zjgbz/test_site/fullstack-course4/examples/Lecture29/after/snippets/menu-items-title.html",
+		"/Users/zjgbz/test_site/fullstack-course4/examples/Lecture29/after/snippets/menu-items-title.js",
+		"/Users/zjgbz/test_site/fullstack-course4/examples/Lecture29/after/snippets/home-snippet.html",
+		"/Users/zjgbz/test_site/fullstack-course4/examples/Lecture33/after/css/styles.css",
+		"/Users/zjgbz/test_site/fullstack-course4/examples/Lecture29/before/index.html",
+		"/Users/zjgbz/test_site/fullstack-course4/examples/Lecture29/before/css/styles.css",
+		"/Users/zjgbz/test_site/fullstack-course4/examples/Lecture24/responsive-before.html",
+		"/Users/zjgbz/test_site/fullstack-course4/examples/Lecture26/grid-before.html",
+		"/Users/zjgbz/test_site/fullstack-course4/examples/Lecture20/background-before.html",
+		"/Users/zjgbz/test_site/fullstack-course4/examples/Lecture15/pseudo-selectors-before.html",
+		"/Users/zjgbz/test_site/coursera-test/site/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/zjgbz/one-month/omrails",
+			"/Users/zjgbz/Dev/tweetme/src",
+			".",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"place in cart",
+			"mosch",
+			"sort",
+			"tsort",
+			"tbody",
+			"btnc",
+			"btn",
+			"primary",
+			"body-color",
+			"007bff",
+			"brand-primary",
+			"gray-ligh",
+			"brand-primary",
+			"new_user",
+			"jquery",
+			"big",
+			"here we are",
+			"bearer",
+			"getT",
+			"auth/getto",
+			"resourceurl",
+			"resource",
+			"login",
+			"policy_na",
+			"policyN",
+			"signin",
+			"polic",
+			"policy",
+			"b2c",
+			"<",
+			"poli",
+			"parsetweet",
+			"retweet",
+			"get_url",
+			"get_follow_url",
+			"reverse_lazy",
+			"updateH",
+			"updateh",
+			"tags",
+			"/tags",
+			"tags",
+			"tweet_save",
+			"update",
+			"()\n",
+			"parsetweet",
+			"attach",
+			"parsetweet(",
+			"parsetweet",
+			"user",
+			"simplelazy",
+			"))\n",
+			"reverse_lazy",
+			"btn",
+			"UserProfileManager",
+			"manager",
+			"ollowed_by",
+			"attachvalue",
+			"tweet-form",
+			"count",
+			"media",
+			" {{ site_header|default:_('Django administration') }}",
+			"production",
+			"get_or_cr",
+			"tirr.co",
+			"failed",
+			"count",
+			"15",
+			"python",
+			"test_point",
+			"post",
+			"console",
+			"index.ht",
+			"switch",
+			"switchMenuToActive",
+			"menu-ca",
+			"menu-categ",
+			"switchMenu",
+			"switch",
+			"switchMenuToActive",
+			"switchMenuToActive();",
+			"switch",
+			"swith",
+			"switchMenuToActive",
+			"console.",
+			"html.insertProperty",
+			"insertPro",
+			"insertHtml",
+			"html.insertProperty(",
+			"buildItemsViewHtml",
+			"\"));",
+			"insertHtml",
+			"buildAndShowCategoriesHtml",
+			"menu",
+			"buildCategoriesViewHtml",
+			"glyph",
+			"menu",
+			"home",
+			"menu",
+			"home",
+			"navbarToggle",
+			"menu",
+			"visible-xs",
+			"jumbotron",
+			"visible-xs",
+			"call-btn",
+			"navbar-brand",
+			"navbar-icon",
+			"	\n",
+			"50.653",
+			"load"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"btn",
+			"btnc",
+			"//console",
+			"html = insertProperty(html, "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 191.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango111.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
